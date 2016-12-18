@@ -236,3 +236,4 @@ var computerAI = function() {
 		me = !me;
 	}
 }
+//测试啊啊啊啊
